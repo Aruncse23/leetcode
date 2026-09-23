@@ -112,7 +112,7 @@ class Solution:
 
 ```java
 /*
-// Definition for an Interval.
+// Definition for an Interval..
 class Interval {
     public int start;
     public int end;
